@@ -14,10 +14,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## vanadiumjam
-email: ohvanadiumjam@gmail.com
-
-youtube: https://www.youtube.com/@tree722
-
-instagram: https://www.instagram.com/vanadiumjamtree
-
